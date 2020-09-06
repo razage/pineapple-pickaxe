@@ -1,0 +1,15 @@
+# Directories
+build
+raw_assets
+.import/
+.mono/
+.vscode/
+
+# Extensions
+*.ase
+*.xcf
+
+# Files
+debug.log
+export.cfg
+export_presets.cfg

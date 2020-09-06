@@ -1,0 +1,17 @@
+* text=auto
+
+*.cfg text eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf
+*.gd text eol=lf
+*.godot text eol=lf
+*.import text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.png binary
+*.res binary
+*.sln text eol=lf
+*.tmx text eol=lf
+*.tres text eol=lf
+*.tscn text eol=lf
+*.xcf binary
